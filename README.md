@@ -11,6 +11,21 @@ Un projet de **stéganographie & stéganalyse**, développé dans le cadre du pr
   - Extraction des messages cachés  
   - Analyse/statistiques pour évaluer la discrétion (robustesse, qualité, ratio)
 
+
+## 📦 Types de stéganographie prises en charge
+
+Ce projet permet de cacher du texte dans plusieurs types de fichiers :
+
+| Format          | Technique utilisée                                              |
+|----------------|------------------------------------------------------------------|
+| `.txt`         | Caractères Unicode invisibles (`\u200b`, `\u200c`)               |
+| `.png`         | Bit de poids faible (LSB) sur les pixels RVB                     |
+| `.wav`         | LSB sur les échantillons audio                                   |
+| `.pdf`         | Métadonnées du document (`/SteganoSecret`)                      |
+| `.docx/.pptx/.xlsx` | Insertion dans le contenu textuel des paragraphes ou cellules |
+| `.mp4`         | Ajout d’un fichier secret en fin de fichier vidéo binaire        |
+
+
 ## ⚙️ Tech Stack
 
 | Composant       | Technologie                                                 |
