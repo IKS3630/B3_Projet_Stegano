@@ -1,6 +1,6 @@
 # B3_Projet_Stegano 🚀
 
-Un projet de **stéganographie & stéganalyse**, développé dans le cadre du B3 (année universitaire), permettant de **cacher des messages dans des images** puis de **les récupérer/détecter**.
+Un projet de **stéganographie & stéganalyse**, développé dans le cadre du projet tuteuré de B3 cybersécurité, permettant de **cacher des messages dans des images** puis de **les récupérer/détecter**.
 
 ## 🧩 Contexte & Objectifs
 
