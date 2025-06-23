@@ -5,12 +5,10 @@ Un projet de **stéganographie & stéganalyse**, développé dans le cadre du pr
 ## 🧩 Contexte & Objectifs
 
 - **Pourquoi ce projet ?**  
-  Explorer les techniques de stéganographie (caché d’informations) et de stéganalyse (détection/extraction) appliquées aux images numériques.
+  Explorer les techniques de stéganographie (cacher de l’information) et de stéganalyse (détection/extraction) appliquées aux fichiers numériques.
 - **Principales fonctionnalités :**  
-  - Insertion de messages secrets dans des images PNG/JPG  
+  - Insertion de messages secrets dans des fichiers
   - Extraction des messages cachés  
-  - Analyse/statistiques pour évaluer la discrétion (robustesse, qualité, ratio)
-
 
 ## 📦 Types de stéganographie prises en charge
 
