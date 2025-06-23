@@ -13,17 +13,18 @@ Un projet de **stéganographie & stéganalyse**, développé dans le cadre du pr
 
 ## ⚙️ Tech Stack
 
-| Composant         | Technologie           |
-|------------------|-----------------------|
-| Langages         | Python, Jupyter Notebook |
-| Bibliothèques    | Pillow, NumPy, éventuellement `stegano` |
-| Visualisations   | Matplotlib / Seaborn (pour montrer les résultats) |
+| Composant       | Technologie                                                 |
+|-----------------|-------------------------------------------------------------|
+| Langages        | Python, Jupyter Notebook                                    |
+| Bibliothèques   | Pillow, NumPy, éventuellement `stegano`, Flask, PyPDF2, etc.|
+| Visualisations  | Serveur de prod : Gunicorn , Serveur de test : Flask |
+
 
 ## 🛠️ Installation
 
 **Prérequis :**
-- Python 3.8+
-- pip
+- Python 
+- requirements.txt
 
 ```bash
 git clone https://github.com/IKS3630/B3_Projet_Stegano.git
