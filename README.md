@@ -30,13 +30,12 @@ Ce projet permet de cacher du texte dans plusieurs types de fichiers :
 
 | Composant       | Technologie                                                 |
 |-----------------|-------------------------------------------------------------|
-| Langages        | Python, Jupyter Notebook                                    |
-| Bibliothèques   | Pillow, NumPy, éventuellement `stegano`, Flask, PyPDF2, etc.|
+| Langages        | Python, HTML                                   |
+| Bibliothèques   | Flask, Pillow, NumPy, PyPDF2, python-docx, openpyxl, etc... |
 | Visualisations  | Serveur de prod : Gunicorn , Serveur de test : Flask |
 
 
 ## 🛠️ Installation
-
 **Prérequis :**
 - Python 
 - requirements.txt
