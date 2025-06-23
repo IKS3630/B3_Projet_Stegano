@@ -51,5 +51,5 @@ py app.py #or python app.py
 
 ---
 
-Made with ❤️ by the B3 Cybersécurité Team – 2025
+Made with ❤️ by Quentin RAULT - B3 Cybersécurité Team – 2025 
 
