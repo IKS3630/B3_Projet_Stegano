@@ -1,11 +1,11 @@
 # B3_Projet_Stegano 🚀
 
-Un projet de **stéganographie & stéganalyse**, développé dans le cadre du projet tuteuré de B3 cybersécurité, permettant de **cacher des messages dans des images** puis de **les récupérer/détecter**.
+Un projet de **stéganographie**, développé dans le cadre du projet tuteuré de B3 cybersécurité, permettant de **cacher des messages dans des fichiers numériques** puis de **les récupérer/extraire**.
 
 ## 🧩 Contexte & Objectifs
 
 - **Pourquoi ce projet ?**  
-  Explorer les techniques de stéganographie (cacher de l’information) et de stéganalyse (détection/extraction) appliquées aux fichiers numériques.
+  Explorer les techniques de stéganographie (cacher de l’information) appliquées aux fichiers numériques.
 - **Principales fonctionnalités :**  
   - Insertion de messages secrets dans des fichiers
   - Extraction des messages cachés  
