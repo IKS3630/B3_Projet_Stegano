@@ -26,7 +26,9 @@ Un projet de **stéganographie & stéganalyse**, développé dans le cadre du pr
 - Python 
 - requirements.txt
 
+
 ```bash
 git clone https://github.com/IKS3630/B3_Projet_Stegano.git
 cd B3_Projet_Stegano
 pip install -r requirements.txt
+python app.py
