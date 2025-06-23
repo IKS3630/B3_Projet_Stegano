@@ -47,3 +47,9 @@ git clone https://github.com/IKS3630/B3_Projet_Stegano.git
 cd B3_Projet_Stegano
 pip install -r requirements.txt
 py app.py #or python app.py
+```
+
+---
+
+Made with ❤️ by the B3 Cybersécurité Team – 2025
+
